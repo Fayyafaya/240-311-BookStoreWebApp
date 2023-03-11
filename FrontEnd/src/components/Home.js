@@ -12,7 +12,7 @@ const Home = () => {
           sx={{ marginTop: 15, background: "orangered" }}
           variant="contained"
         >
-          <Typography variant="h3">View All products</Typography>
+          <Typography variant="h3">Manage The book</Typography>
         </Button>
       </Box>
     </div>

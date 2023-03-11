@@ -6,10 +6,19 @@ const About = () => {
     <div>
       <Box display="flex" flexDirection="column" alignItems="center">
         <Typography sx={{ fontFamily: "fantasy" }} variant="h2">
-          somsri dum
+          Group member.
         </Typography>
         <Typography sx={{ fontFamily: "fantasy" }} variant="h3">
-          somsri mai suai
+          
+        </Typography>
+        <Typography sx={{ fontFamily: "fantasy" }} variant="h3">
+          Pornchanok Srakaew 6310110301.
+        </Typography>
+        <Typography sx={{ fontFamily: "fantasy" }} variant="h3">
+          Pittayut Jitpakdee 6310110646.
+        </Typography>
+        <Typography sx={{ fontFamily: "fantasy" }} variant="h3">
+          Nifadia Lillahkul  6310110704.
         </Typography>
       </Box>
     </div>
